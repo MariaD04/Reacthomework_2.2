@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const ShopCard = ({ name, color, price, img }) => {
   return (
     <article className='product'>
